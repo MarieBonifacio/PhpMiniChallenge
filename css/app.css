@@ -168,7 +168,7 @@ footer{
 /*formulaire*/
 .formulaire{
     margin-top: 3vh;
-    width: 95vw;
+    width: 99vw;
     height:70vh;
     border-radius: 20%;
     border : 6px solid black;
@@ -181,9 +181,14 @@ footer{
 
 label, input{
     font-size: 2.5vh;
+    
+}
+
+input{
+    border : 6px solid black;
 }
 .message{
-    width: 30vh;
+    width: 32vh;
     height: 10vh;
 }
 button{
